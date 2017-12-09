@@ -10,9 +10,49 @@ font-size: 18px;
 
 }
 
+#toppad{
+	margin-top: 25px;
+}
+
+.nametop{
+	margin-top: 50px;
+		font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+}
+
+#placement{
+
+	  float: left;
+	  margin-right: 20px;
+	  margin-bottom: 10px;
+	  	outline:#FF3B3F solid thick;
+	outline-width: 5px;
+
+}
+
+#placementtwo{
+
+	  float: right;
+	  margin-left: 25px;
+	  margin-top: 20px;
+	  
+	  	outline:#FF3B3F solid thick;
+	outline-width: 5px;
+
+}
+
+.placementthree{
+
+		display: block;
+	  margin:auto;
+	  outline:#FF3B3F solid thick;
+	  outline-width: 5px;
+
+}
+
 #youtube{
 	outline:#FF3B3F solid thick;
-	outline-width: 10px;
+	outline-width: 5px;
 	
 }
 
@@ -40,6 +80,11 @@ font-size: 18px;
 	
 }
 
+#cent{
+	display: block;
+	  margin:auto;
+
+}
 
 .paraTitle{
 	font-family: 'Oswald', sans-serif;
