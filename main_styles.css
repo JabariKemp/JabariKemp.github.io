@@ -1,0 +1,34 @@
+#changeback {
+  background-color: #0277bd;
+  color:#000000;
+}
+
+.top_rows{
+  padding-top: 10px;
+  opacity: .60;
+}
+
+.pad_card{
+  padding-top: 0px;
+}
+
+.name{
+  text-align: center;
+  color:white;
+}
+
+img {
+    border-radius: 50%;
+    width: 90%;
+    margin: 15px;
+}
+
+.para_space{
+  margin: 10px;
+}
+
+.general_text{
+  font-family: 'Roboto', sans-serif;
+  color:#000000;
+
+}
