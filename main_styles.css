@@ -1,6 +1,5 @@
 body{
 	background-color: white;
-	font-size: 16px;
 
 }
 
@@ -9,24 +8,10 @@ body{
 	margin-top:3%;
 }
 
-.jumbo{
-	margin-top: 20%;
-	vertical-align: center;
-	height: 500px;
 
 }
 
-h1{
-	font-size: 10em;
-}
 
-h2{
-	font-size: 2em;
-}
-
-h1{
-	font-size: 1em;
-}
 
 .button_row{
 	margin-top: 2%;
